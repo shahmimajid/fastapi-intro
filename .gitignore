@@ -6,6 +6,11 @@ __pycache__/
 #poetry
 poetry.lock
 
+#vscode
+.vscode
+.vscode/*
+
+
 # C extensions
 *.so
 
