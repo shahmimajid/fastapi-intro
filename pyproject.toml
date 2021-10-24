@@ -8,6 +8,7 @@ authors = ["Shahmi Majid <shahmi.majid@gmail.com>"]
 python = "^3.9"
 fastapi = "^0.70.0"
 uvicorn = "^0.15.0"
+pipreqs = "^0.4.11"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
